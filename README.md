@@ -1,2 +1,0 @@
-# LineStudy
-LineStudy Spring, React
